@@ -1,5 +1,5 @@
 <?php
-$access_token = 'ใส่ token bot';
+$access_token = '773zmHYeE33x+O2pFMgkzRL6KmnLyk0h91rH0ZDX5j2ZI/43mFOV4nGNWDS52mYI54vHWLE5m0is63Rus0GCWzlOT3cJ4LmIicg0PUAu9gAgpwaqfuCT9ifw43op+aQfBc6THTfVfbRKpVQf3yJIWAdB04t89/1O/w1cDnyilFU=';
 
 $namebot ='== หลวงปู่เค็ม วัดเขาอีโต้ขว้างเป็ด ==';
 
